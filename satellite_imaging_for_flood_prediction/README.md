@@ -1,36 +1,48 @@
-# 🌊 Satellite Image-Based Flood Prediction
+#  Flood Prediction with Satellite Imagery
 
-This project focuses on environmental monitoring using satellite data to predict the occurrence of floods. It uses both CNN and RNN-based models on structured data for accurate flood classification.
-
-## 📁 Files Included
-- `kaggle.ipynb`: The main notebook containing all code (preprocessing, training, evaluation)
-- `train.csv`: Training dataset
-- `test.csv`: Testing dataset
-
-## 🧠 Models Used
-- CNN (Convolutional Neural Network)
-- RNN (Recurrent Neural Network)
-
-## ⚙️ Workflow
-1. Data Preprocessing
-2. Segmentation & Feature Extraction
-3. Model Training (CNN and RNN)
-4. Prediction (Flood / No Flood)
-
-## 💡 Tools & Libraries
-- Python
-- NumPy, Pandas, Matplotlib
-- TensorFlow / Keras
-- Scikit-learn
-
-## 📝 How to Run
-1. Clone this repo or download ZIP
-2. Open `kaggle.ipynb` in Jupyter or Google Colab
-3. Run all cells
-
-## 📌 Project Goal
-To develop a flood prediction system using satellite or environmental data, helping with early disaster warning.
+This project leverages satellite data to monitor environmental conditions and predict flood events. By combining **Convolutional Neural Networks (CNNs)** and **Recurrent Neural Networks (RNNs)**, the system aims to classify flood occurrences with high accuracy.
 
 ---
 
-Made by **Yugandhar Reddy**
+## Repository Contents
+- **`kaggle.ipynb`** → Main notebook (data preprocessing, training, evaluation)
+- **`train.csv`** → Training dataset
+- **`test.csv`** → Testing dataset
+
+---
+
+##  Machine Learning Models
+- **CNN**: For spatial feature extraction from satellite imagery  
+- **RNN**: For sequential/temporal data modeling  
+
+---
+
+##  Workflow Overview
+1. **Data Preprocessing**  
+2. **Segmentation & Feature Extraction**  
+3. **Model Training** (CNN + RNN)  
+4. **Prediction Output** → *Flood* / *No Flood*  
+
+---
+
+##  Tools & Libraries
+- Python  
+- NumPy, Pandas, Matplotlib  
+- TensorFlow / Keras  
+- Scikit-learn  
+
+---
+
+##  How to Run
+1. Clone this repository or download the ZIP file  
+2. Open **`kaggle.ipynb`** in Jupyter Notebook or Google Colab  
+3. Execute all cells sequentially  
+
+---
+
+##  Project Objective
+To build a reliable flood prediction system using satellite and environmental datasets, supporting **early disaster warning and preparedness**.
+
+---
+
+ Developed by **Niranjan Tiwari**
