@@ -35,7 +35,7 @@ This project leverages satellite data to monitor environmental conditions and pr
 
 ##  How to Run
 1. Clone this repository or download the ZIP file  
-2. Open **`kaggle.ipynb`** in Jupyter Notebook or Google Colab  
+2. Open **`flood_detection.ipynb`** in Jupyter Notebook or Google Colab  
 3. Execute all cells sequentially  
 
 ---
