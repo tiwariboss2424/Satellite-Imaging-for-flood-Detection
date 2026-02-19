@@ -5,7 +5,7 @@ This project leverages satellite data to monitor environmental conditions and pr
 ---
 
 ## Repository Contents
-- **`kaggle.ipynb`** → Main notebook (data preprocessing, training, evaluation)
+- **`flood_detection.ipynb`** → Main notebook (data preprocessing, training, evaluation)
 - **`train.csv`** → Training dataset
 - **`test.csv`** → Testing dataset
 
